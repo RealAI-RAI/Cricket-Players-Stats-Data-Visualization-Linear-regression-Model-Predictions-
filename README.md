@@ -46,6 +46,7 @@ To run the code, you will need to have Python 3 and the required libraries insta
 # Installation
 
 git clone https://github.com/RealAI-RAI/Cricket-Players-Stats-Data-Visualization-Linear-regression-Model-Predictions.git
+
 cd Cricket-Players-Stats-Data-Visualization-Linear-regression-Model-Predictions
 
 pip install -r requirements.txt
