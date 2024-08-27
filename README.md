@@ -36,6 +36,9 @@ plotly.express: for data visualization using heatmaps and bar charts
 
 The following visualizations were created using the data set:
 
+
+![download](https://github.com/user-attachments/assets/cff160ec-45cc-4591-87d0-74e9bf047cc2)
+
 A line chart showing the total number of runs scored by each player over the course of their career.
 A scatter plot showing the relationship between the average number of runs scored per dismissal and the strike rate.
 A heatmap showing the frequency distribution of the number of centuries and half centuries scored by each player.
